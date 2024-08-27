@@ -1,4 +1,6 @@
-# TJ-TPAuth 1.0.0
+# TJ-TPAuth
+
+This project has changed its deployment structure, please visit [tj_tpauth](https://github.com/duynguyen02/tj_tpauth).
 
 ### Sync
 
